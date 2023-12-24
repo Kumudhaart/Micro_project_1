@@ -86,7 +86,7 @@ input[type="submit"]{
 }
 
 div[class="image"]{
-    background-image: url("images/man.png");
+    background-image: url("man.png");
     width:600px;
     height: 25rem;
     background-size:100% 100%;
